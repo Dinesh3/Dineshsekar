@@ -2,8 +2,6 @@
 
 A responsive, dependency-free static portfolio built with HTML, CSS and JavaScript. No installation, build process, server or API key is required.
 
-## Preview
-Extract the ZIP and open `index.html` in your browser. Navigation, case-study disclosures and the resume download work locally.
 
 ## Publish on GitHub Pages
 1. Create a public GitHub repository named `YOUR-USERNAME.github.io`, replacing YOUR-USERNAME with your actual GitHub username.
@@ -25,7 +23,5 @@ Official instructions: https://docs.github.com/en/pages/getting-started-with-git
 
 Search `index.html` for a heading or sentence to edit its content. Project details use native `<details>` elements. All important content remains visible without JavaScript. This is a professional portfolio, not a live DNS/IPAM tool; no infrastructure API is connected.
 
-## Before publishing
-Review the content and downloadable resume for approved public disclosure. Confirm the production status of integrations and exact certification names. The IPAM case study describes architecture and integration paths without claiming every connector is live. No employer configurations, credentials, IP addresses or internal diagrams are included.
 
 The code is supplied for your portfolio and can be modified freely. Personal profile text and credentials belong to Dinesh Sekar. No third-party runtime libraries or fonts are included.
